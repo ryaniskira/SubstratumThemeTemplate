@@ -5,11 +5,11 @@ android {
     buildToolsVersion "24.0.1"
 
     defaultConfig {
-        applicationId "substratum.theme.template"
+        applicationId "com.kira.loki.BlackPixel"
         minSdkVersion 23
         targetSdkVersion 24
         versionCode 1
-        versionName "1.0"
+        versionName "0.1"
     }
     buildTypes {
         def BOOLEAN = "boolean"

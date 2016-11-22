@@ -37,7 +37,7 @@
         <!-- Do you support Stock but not Theme Ready Gapps? -> stock -->
         <meta-data
             android:name="Substratum_ThemeReady"
-            android:value="all|ready|stock"/> <!-- Only pick one! -->
+            android:value="all"/> <!-- Only pick one! -->
         <meta-data
             android:name="Substratum_Wallpapers"
             android:value="http://pastebin.com/raw/TG4mFdXz"/>
